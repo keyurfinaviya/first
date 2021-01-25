@@ -1,5 +1,1 @@
-print('hello')
-print('good morning')
-
-
-
+a + b = c
